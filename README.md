@@ -1,1 +1,1 @@
-first rezadme
+systeme devops
